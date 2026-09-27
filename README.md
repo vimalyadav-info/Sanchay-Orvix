@@ -1,6 +1,6 @@
 # SanchayOrvix ☁️
 
-**SanchayOrvix** is a modern private cloud storage platform inspired by applications like Google Drive. It allows users to securely upload, store, organize, manage, and access their files from a centralized digital workspace.
+**SanchayOrvix** is a modern private cloud storage platform. It allows users to securely upload, store, organize, manage, and access their files from a centralized digital workspace.
 
 The project is designed as a full-stack cloud storage solution with user authentication, file management, storage organization, and a responsive web interface.
 
